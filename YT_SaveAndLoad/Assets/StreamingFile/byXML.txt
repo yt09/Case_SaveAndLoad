@@ -1,0 +1,20 @@
+<save name="saveFile1">
+  <target>
+    <targetPosition>2</targetPosition>
+    <monsterType>2</monsterType>
+  </target>
+  <target>
+    <targetPosition>4</targetPosition>
+    <monsterType>3</monsterType>
+  </target>
+  <target>
+    <targetPosition>6</targetPosition>
+    <monsterType>3</monsterType>
+  </target>
+  <target>
+    <targetPosition>7</targetPosition>
+    <monsterType>1</monsterType>
+  </target>
+  <shootNum>2</shootNum>
+  <score>1</score>
+</save>
